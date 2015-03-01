@@ -1,2 +1,3 @@
-click
-coherence
+click>=3.3
+Twisted>=15.0.0
+http://coherence-project.org/download/Coherence-0.6.6.2.tar.gz
